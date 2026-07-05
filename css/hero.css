@@ -1,0 +1,38 @@
+.hero {
+    
+}
+
+.hero-container {
+background-color: #1d1d1d;
+}
+
+.hero-wrap-text {}
+
+.hero-title-photography {
+    font-style: italic;
+    font-weight: 400;
+    color: #bea69e;
+}
+.hero-title {
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 1.0625;
+    letter-spacing: -0.04em;
+    color: #fff;
+}
+
+.hero-title-descr {
+    
+}
+
+.hero-list {}
+
+.hero-list-item {}
+
+.hero-reviews {}
+
+.hero-reviews-num {}
+
+.hero-wrap-img {}
+
+.hero-photo {}
